@@ -1,0 +1,24 @@
+{
+  "name": "crop-loader",
+  "version": "0.0.1",
+  "description": "Image cropping loader for webpack (for using sprites etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sprite",
+    "webpack",
+    "image",
+    "crop"
+  ],
+  "author": "Riku Rouvila",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^2.0.1",
+    "gm": "^1.18.1",
+    "loader-utils": "^0.2.9",
+    "lodash.reduce": "^3.1.2",
+    "lodash.set": "^3.7.4"
+  }
+}
