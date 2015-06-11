@@ -12,6 +12,10 @@
     "image",
     "crop"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rikukissa/crop-loader.git"
+  },
   "author": "Riku Rouvila",
   "license": "MIT",
   "dependencies": {
